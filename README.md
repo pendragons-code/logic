@@ -1,9 +1,7 @@
 ## logic operators truth table
 
 ## De Morgan's Laws
-¬(p∨q)≡¬p∧¬q<br>
-not(p or q) = not p and not q<br>
-truth table:<br>)
+¬(p∨q)≡¬p∧¬q
 | p | q | ¬p∨q |¬p∧¬q|
 |---|---|---|---|
 | T | T | F | F |
